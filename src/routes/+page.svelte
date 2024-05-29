@@ -1,0 +1,1 @@
+<a href="https://prerender.origin/other-page">Other page</a>
