@@ -1,1 +1,2 @@
-<a href="https://prerender.origin/other-page">Other page</a>
+<a href="https://prerender.origin/other-page">Absolute URI</a>
+<a href="//prerender.origin/other-page">Network-Path-Reference</a>
